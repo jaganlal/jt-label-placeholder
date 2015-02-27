@@ -2,7 +2,7 @@
 Angular directive for smart placeholder
 
 
-A lightweight, extensible directive for showing placeholder smartly
+A lightweight, extensible directive for showing placeholder smartly. Check it out - http://codepen.io/jaganlal/full/ByVWea
 
 
 ##Settings
