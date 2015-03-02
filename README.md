@@ -31,6 +31,6 @@ A lightweight, extensible directive for showing placeholder smartly. Check it ou
 
 ####Reference
 Inspired by 
-https://css-tricks.com/float-labels-css/
-http://mds.is/float-label-pattern/
+* https://css-tricks.com/float-labels-css/
+* http://mds.is/float-label-pattern/
 
