@@ -29,4 +29,8 @@ A lightweight, extensible directive for showing placeholder smartly. Check it ou
 * `jtLabelPlaceholder` - The directive
 * `place-holder` - Place holder for the input element
 
-####Optional
+####Reference
+Inspired by 
+https://css-tricks.com/float-labels-css/
+http://mds.is/float-label-pattern/
+
