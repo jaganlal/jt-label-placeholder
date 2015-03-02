@@ -9,5 +9,10 @@
  */
 angular.module('jtLabelPlaceholderApp')
   .controller('LabelPlaceholderCtrl', function ($scope) {
-    $scope.placeHolderText = "Enter date (DD/MM/YY)";
+
+  	$scope.placeHolderText = {
+  		name: "Enter full name", 
+  		dob: "DOB format (DD/MM/YY)",
+  		cc: "Enter credit card number without hypens"
+  	}
   });
